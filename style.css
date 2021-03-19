@@ -19,4 +19,20 @@ p {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: aliceblue;
   }
+
+ @media only screen and (max-width: 992px) {
+    p {
+        font-size: 15px;  
+      }
+
+      #countdownContainer {
+    
+        background-color: #3b3a3a;
+        padding: 2px;
+        border: 5px solid #ec5d33;
+      
+        
+    }
+    
+  }
   
