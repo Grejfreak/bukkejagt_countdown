@@ -1,8 +1,8 @@
 // Set the date we're counting down to
 var countDownDate = new Date("May 16, 2021 00:00:00").getTime();
 var outdatedDate =  new Date("Jul 15, 2021 23:59:00").getTime();
-const jagtNotStarted = "Bukkejagt starter om: "
-const jagtStarted = "Bukkejagt er startet!"
+const jagtNotStarted = "Bukkejagten starter om: "
+const jagtStarted = "Bukkejagten er startet!"
 // Update the count down every 1 second
 var x = setInterval(function() {
 
