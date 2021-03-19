@@ -1,0 +1,22 @@
+#countdownContainer {
+    
+    background-color: #3b3a3a;
+    padding: 4px;
+    border: 12px solid #ec5d33;
+  
+    
+}
+
+#countdown {
+    font-weight: bold;
+    text-decoration: #ec5d33 underline;
+}
+p {
+
+    text-align: center;
+    font-size: 40px;
+  
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+  }
+  
