@@ -9,12 +9,12 @@
 #countdown {
     font-weight: bold;
     text-decoration: #ec5d33 underline;
-    font-size: 5em;
+    font-size: 2.5em;
 }
 p {
 
     text-align: center;
-    font-size: 5em;
+    
   
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
